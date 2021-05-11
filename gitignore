@@ -1,0 +1,12 @@
+.idea/**
+.idea
+.DS_Store
+.gemtags
+.tags
+.tags_sorted_by_file
+.bundle
+.sublimelinterrc
+.vscode
+.classpath
+.project
+.settings
